@@ -1,0 +1,24 @@
+{
+  "name": "bitbox-ts-example",
+  "version": "1.0.0",
+  "description": "Basic command line node app w/ BITBOX bindings",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "ls"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Bitcoin-com/bitbox-ts-example.git"
+  },
+  "author": "https://twitter.com/James_Cramer",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Bitcoin-com/bitbox-ts-example/issues"
+  },
+  "homepage": "https://github.com/Bitcoin-com/bitbox-ts-example#readme",
+  "devDependencies": {
+    "bitbox-cli": "1.4.4",
+    "@types/node": "^10.5.2"
+  }
+}
